@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨Hi my name is Sardor <br>📚 I'm currently learning programming<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨Hi my name is Sardor <br>📚 I'm currently learning programming<br>🎯 Goals: Skills Camp and Startup Weekend participant<br>🎲 Fun fact: ...</p>
 
 ###
 
